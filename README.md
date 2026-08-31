@@ -6,6 +6,6 @@ This change was made on my practice branch.
 I am practicing my first Pull Request.
 
 ## About Me
-I am learning GitHub every day.
+I am learning GitHub by practicing.
 ## My Goal
 I want to become confident using Git and GitHub.
