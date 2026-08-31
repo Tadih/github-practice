@@ -5,3 +5,5 @@ This is my first GitHub practice project.
 This change was made on my practice branch.
 I am practicing my first Pull Request.
 
+## About Me
+I am learning GitHub step by step.
