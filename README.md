@@ -9,4 +9,3 @@ I am practicing my first Pull Request.
 I am learning GitHub step by step.
 ## My Goal
 I want to become confident using Git and GitHub.
-This sentence is a mistake.
